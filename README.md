@@ -32,7 +32,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-### set1:   `git clone https://github.com/anjaneyulugulla/sample-reactweb.git`
-### set2:   `run npm install`
-### set3:   `npm start`
+### s1:   `git clone https://github.com/anjaneyulugulla/sample-reactweb.git`
+### s2:   `run npm install`
+### s3:   `npm start`
 ## Start Website
